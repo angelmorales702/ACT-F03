@@ -1,7 +1,5 @@
 # PetMarket · Persona 3: Service Layer y Diagramas UML
 
-> Los diagramas están en Mermaid: GitHub los renderiza directo al subir este `.md`. Para el reporte FIME, toma screenshot del render.
-
 ## 1. Supuestos (a validar con la Persona 2 y el stakeholder)
 
 - Aggregate Roots: **Pedido**, **Almacen**, **Pago**, **Envio**, **Devolucion**.
